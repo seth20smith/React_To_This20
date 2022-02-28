@@ -1,7 +1,6 @@
 {
-  "name": "photo-port",
+  "name": "my-app",
   "version": "0.1.0",
-  "homepage":"github.com/seth20smith/React_To_This20.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
