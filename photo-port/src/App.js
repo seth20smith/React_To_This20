@@ -1,8 +1,5 @@
 import './App.css';
 import React from 'react';
-import img_weather from "https://user-images.githubusercontent.com/91171134/141701804-bfd78a06-023b-4b36-8540-71c59fe8d803.png";
-import img_planner from "https://courses.bootcampspot.com/users/12064/files/1042446/preview?verifier=N5fY1wXjNY0ZpBjivqmF7jtSbF3IUadFDph6Deuo";
-import img_noteTaker from "https://user-images.githubusercontent.com/91171134/155905797-f77aee12-44c7-49bb-9289-57356161f71b.png";
 // import { Route, Switch, BrowserRouter} from 'react-router-dom';
 
 function App() {
@@ -62,16 +59,16 @@ function App() {
     <div className="container2">
       <div className="box1">
         <a href="https://seth20smith.github.io/weather-dashboard-wk-6/"> <h3>Weather Dashboard</h3></a>
-        <img src={img_weather} height={200} width={200} alt="img"/>
+        <img src={require('./Images/Screen Shot 2021-11-14 at 2.37.41 PM.png')} height={200} width={200} alt="img"/>
       </div>
       <div className="box2">
         <a href="https://seth20smith.github.io/typical9to5/">        <h3> Work Day Planner</h3>
         </a>
-        <img src={img_planner} height={200} width={200} alt="img"/>
-      </div>
+        <img src={require('./Images/Screen Shot 2021-11-06 at 11.37.44 AM.png')} height={200} width={200} alt="img"/>
+      </div> 
       <div className="box3">
         <a href="https://guarded-wildwood-06188.herokuapp.com/"><h3> Note Taker</h3></a>
-        <img src={img_noteTaker} height={200} width={200} alt="img"/>
+        <img src={require('./Images/Screen Shot 2021-12-17 at 7.53.36 PM.png')} height={200} width={200} alt="img"/>
       </div>
     </div>
     {/* resume*/}
