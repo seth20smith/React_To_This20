@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React_To_This20/static/css/main.b5758ea5.css",
+    "main.js": "/React_To_This20/static/js/main.953c5020.js",
+    "static/js/787.137aa76a.chunk.js": "/React_To_This20/static/js/787.137aa76a.chunk.js",
+    "static/media/Screen Shot 2021-11-14 at 2.37.41 PM.png": "/React_To_This20/static/media/Screen Shot 2021-11-14 at 2.37.41 PM.e9e8cdf6916b303dba24.png",
+    "static/media/Screen Shot 2021-11-06 at 11.37.44 AM.png": "/React_To_This20/static/media/Screen Shot 2021-11-06 at 11.37.44 AM.3c3d3f672bb9c82b2c45.png",
+    "static/media/Screen Shot 2021-12-17 at 7.53.36 PM.png": "/React_To_This20/static/media/Screen Shot 2021-12-17 at 7.53.36 PM.ce89d5b09c894ed4b588.png",
+    "index.html": "/React_To_This20/index.html",
+    "main.b5758ea5.css.map": "/React_To_This20/static/css/main.b5758ea5.css.map",
+    "main.953c5020.js.map": "/React_To_This20/static/js/main.953c5020.js.map",
+    "787.137aa76a.chunk.js.map": "/React_To_This20/static/js/787.137aa76a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5758ea5.css",
+    "static/js/main.953c5020.js"
+  ]
+}
